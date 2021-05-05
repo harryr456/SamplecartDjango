@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'category',
     'accounts',
     'store',
-    'carts'
+    'carts',
+    'orders'
 ]
 
 MIDDLEWARE = [
@@ -146,7 +147,7 @@ MESSAGE_TAGS = {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'emailproject24@gmail.com'
-EMAIL_HOST_PASSWORD = 'szwlaxuccgvexyfa'
+EMAIL_HOST_PASSWORD = 'June4578&'
 DEFAULT_EMAIL_FROM = 'emailproject24@gmail.com'
 EMAIL_USE_TLS = True
 
